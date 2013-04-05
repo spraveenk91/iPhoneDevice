@@ -12,7 +12,7 @@ Features
 Header File Initalization
 =========================
 
-#import "iPhoneDevice.h"
+* #import "iPhoneDevice.h"
 
 How to use it
 =============
